@@ -1,0 +1,71 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url(./images/assign.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+	font-family: 'Poppins', sans-serif;
+}
+.form-box{
+	width: 47%;
+/*	max-width: 450px;*/
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: white;
+/*	padding: 50px 50px 70px;*/
+/*	text-align: center;*/
+
+    border-radius: 14px;
+
+}
+
+
+
+h1{
+	text-align: center;
+	margin: 50px;
+}
+.form{
+	text-align: center;
+}
+.contact5{
+	width: 444px;
+ 
+    padding: 16px;
+}
+.para{
+	display: flex;
+	justify-content: center;
+	    padding-right: 200px;
+	line-height: 5.2;
+}
+.Paragraph{
+	margin-right: 7px;
+}
+.Paragraph1{
+	    padding-right: 6px;
+}
+.Paragraph2{
+          text-decoration: underline;
+          cursor: pointer;
+}
+.submit{
+	margin: 33px;
+    font-size: 15px;
+    padding: 17px 20px;
+    width: 79%;
+    font-weight: 700;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    text-transform: uppercase;
+    background-image: linear-gradient(to left, #74ebd5, #9face6);
+}
+.Paragraph3{
+	margin: 27px;
+    text-align: center;
+}
